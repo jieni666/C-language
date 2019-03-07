@@ -24,8 +24,8 @@ int main()
 		}
 	}
 
-	printf("个数为%d 和为%d\n",cnt,sum);
-	return 0;
+	 printf("赂枚脢媒脦陋%d 潞脥脦陋%d\n",cnt,sum);
+	 return 0;
 }
  
 
