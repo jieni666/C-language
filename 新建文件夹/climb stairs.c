@@ -5,16 +5,16 @@ int main()
     int sum=0,p2=2,p3=3;
     scanf("%d",&n);
     if(1==n){
-    	printf("ÓĞ1ÖÖ·½Ê½");
+    	printf("æœ‰1ç§æ–¹å¼");
     	return n;
 	}
 	
     if(2==n){
-    	printf("ÓĞ2ÖÖ·½Ê½");
+    	printf("æœ‰2ç§æ–¹å¼");
     	return n;
 	} 
     if(3==n){
-    	printf("ÓĞ3ÖÖ·½Ê½");
+    	printf("æœ‰3ç§æ–¹å¼");
     	return n;
 	} 
     while(n>3)
@@ -24,7 +24,6 @@ int main()
     	p3=sum;
     	n--;
     }
-      printf("ÓĞ%dÖÖ·½Ê½",sum);
+      printf("æœ‰%dç§æ–¹å¼",sum);
       return sum;
-
 }
