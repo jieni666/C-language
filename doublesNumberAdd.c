@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()	
+int  main()	
 {
 	int i,j;
 	int numsSize=4;
