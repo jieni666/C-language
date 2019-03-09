@@ -5,7 +5,7 @@ int main()
 		  
  		for(m=0;m<numsSize;m++)  
         		{  
-        			printf("ÇëÊäÈëÊý×é\n");  
+        			printf("è¯·è¾“å…¥æ•°ç»„\n");  
      				scanf("%d",&nums[m]);  
       		    }
 	    if(numsSize == 0)
@@ -38,6 +38,6 @@ int main()
 			 	           
 	        }	    
 	    }	
-			printf("º¯ÊýÓ¦¸Ã·µ»ØÐÂµÄ³¤¶ÈÎª:%d",i);
+		printf("å‡½æ•°åº”è¯¥è¿”å›žæ–°çš„é•¿åº¦ä¸º:%d",i);
 	  
 }
